@@ -1,0 +1,84 @@
+.thirdbox{
+    height: 500px;
+    width:85%;
+    margin-top: 50px;
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(/src/assets/knife-case.jpg);
+    background-position: center;
+    color: white;
+    
+}
+.logo__container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.logo{
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    margin-left: 2rem;
+}
+.logo p{
+    font-size: small;
+}
+ strong{
+    margin-left: 1rem;
+    
+}
+ul a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 2rem;
+}
+ul a:hover{
+    border-bottom: 1px solid white;
+}
+.third__text h1{
+    margin-top: 7rem;
+    font-size: 5rem;
+    margin-left: 2rem;
+}
+.third__text p{
+    margin-left: 2rem;
+    margin-top: 3rem;
+    line-height: 1.5rem;
+}
+.third__text button{
+    padding: 10px 30px;
+    border-color: white;
+    background: transparent;
+    color: white;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.section1{
+    height: 600px;
+    width: 85%;
+    background-color: black;
+    color: white;
+}
+.texts{
+    margin-left: 30px;
+}
+.texts h1{
+    margin-top: 80px;
+}
+.texts h5{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size:20px;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+.texts p{
+    margin-left: 130px;
+    margin-top: 30px;
+    color: rgba(240, 248, 255, 0.87);
+    line-height: 1.5em;
+}
+.texts a{
+    color: rgba(240, 248, 255, 0.87);
+    float: right;
+    margin-top: 30px;
+    margin-right: 180px;
+}

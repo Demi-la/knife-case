@@ -1,0 +1,156 @@
+
+
+.secondbox{
+    width: 85%;
+    height: 700px;
+    background: #000;
+    color: white;
+   
+}
+.secondbox img{
+    width: 100%;
+  
+}
+.text1{
+    color: white;
+    margin-left: 30px;
+    font-size: 2rem;
+    margin-top: 3rem;
+}
+.paragraphs{
+    font-size: 25px;
+}
+.p1{
+    margin-top: 20px;
+}
+.p2{
+    margin-top: 20px;
+}
+.p3{
+    margin-top: 20px;
+}
+.color{
+    display: flex;
+    margin-top: 40px;
+    /* border: 2px solid blue; */
+    width: 75%;
+    justify-content: space-between;
+   
+}
+.color1{
+ 
+    width: 47%;
+    height: 200px;
+    /* justify-content: space-between;
+    flex-direction: column; */
+}
+.colors1{
+    display: flex;
+    margin: 2rem;
+    padding: 0.3rem;
+    color: black;
+}
+.border1{
+   
+    height: 90%;
+    width: 100%;
+    background-color: rgb(211, 196, 216);
+  
+   
+    
+}
+.circles{
+  
+    width: 100%;
+    display: flex;
+}
+.arrows{
+   
+    width: 100%;
+}
+.arrows p{
+   
+  font-size: 20px;
+}
+.black{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    border-radius: 50%;
+    margin-right: 2rem;
+    z-index: 1;
+}
+.white{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    right: 2em;
+}
+.grey{
+    width: 60px;
+    height: 60px;
+    background-color: gray;
+    border-radius: 50%;
+    /* z-index: 2; */
+    margin-right: 2rem;
+}
+.brown{
+    width: 60px;
+    height: 60px;
+    background-color:  rgba(76, 76, 14, 0.442);
+    border-radius: 50%;
+    position: relative;
+    right: 2em;
+}
+.fonts{
+  
+    width: 47%;
+}
+.border2{
+    margin: 2rem;
+    height: 150px;
+    display: flex;
+    background-color: rgb(211, 196, 216);
+    padding: 1rem;
+    color: black;
+
+}
+/* .border2 div{
+    border: 2px solid blue;
+} */
+.first{
+    width:50% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-weight: 300;
+    font-size: 15px;
+
+}
+.second{
+    width:15% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: 300;
+    font-size: 15px;
+
+}
+.third{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-weight: 300;
+    font-size: 15px;
+
+}
+#font{
+    margin-left: 2rem;
+}
+/* .color1 p{
+    font-size: 1rem;
+} */

@@ -1,0 +1,37 @@
+ .one{
+   display: flex;
+   border-top: 1px solid white;
+   margin-left: 2rem;
+   /* border-bottom: 1px solid white; */
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+}
+.one p{
+     margin-top: 0.5rem;
+     margin-left: 1.5rem;
+     font-weight: lighter;
+     font-size: small;
+} 
+.one h1{
+    color: gray;
+} 
+.feature__lists{
+    margin-top: 2rem;
+}
+.features{
+    display: flex;
+}
+.imgs img{
+    /* width: 50px; */
+    height: 25vw;
+    margin-right: 2rem;
+    /* border: 2px solid red; */
+    margin-top: 2.5rem;
+    margin-left: 2rem;
+}
+.feature_container h1{
+    margin-left: 2rem;
+}
+.feature_container{
+    /* margin-bottom: 70rem; */
+}

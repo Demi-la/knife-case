@@ -1,0 +1,52 @@
+
+
+  .email__content input, textarea{
+    width: 100%;
+    /* padding: 1.5rem; */
+    padding: 12px 20px;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid whitesmoke;
+    resize: none;
+    color: white;
+    margin-top: 2rem;
+    resize: none;
+    align-items: center;
+/*    
+    border: 1px solid blue; */
+  }
+  .email__content{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr; 
+   margin: 2rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    /* border: 1px solid rgb(0, 255, 13); */
+    box-sizing: border-box;
+   
+  }
+  .email h1{
+    text-align: center;
+    margin-top: 3rem;
+  }
+.btn-primary{
+    width: max-content;
+    display: inline-block;
+    color: white;
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor:pointer;
+    border: 1px solid white;
+    background: transparent;
+    margin-top: 1.5rem;
+    
+}
+form{
+    align-items: center;
+    /* border: 1px solid green; */
+    width: 500px;
+    /* margin-left: 15rem; */
+  
+    /* width: 100%; */
+}
